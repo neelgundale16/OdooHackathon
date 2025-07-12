@@ -9,4 +9,6 @@ Technologies Used:
 Frontend: HTML, CSS, ReactJS <br>
 Backend: Python, FastAPI
 
+Master branch : Frontend code <br>
+Main branch : Backend code
 
