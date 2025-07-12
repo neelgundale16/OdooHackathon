@@ -1,0 +1,20 @@
+{
+  "app\\ask\\page.tsx -> @/components/RichTextEditor": {
+    "id": "app\\ask\\page.tsx -> @/components/RichTextEditor",
+    "files": [
+      "static/chunks/_app-pages-browser_components_RichTextEditor_tsx.js"
+    ]
+  },
+  "app\\ask\\page.tsx -> @/components/TagInput": {
+    "id": "app\\ask\\page.tsx -> @/components/TagInput",
+    "files": [
+      "static/chunks/_app-pages-browser_components_TagInput_tsx.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  }
+}
