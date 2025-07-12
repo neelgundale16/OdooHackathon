@@ -10,7 +10,7 @@ interface User {
 }
 
 export default function Header() {
-  const [user, setUser] = useState<User | null>({ id: '1', username: 'john_doe' });
+  const [user, setUser] = useState<User | null>({ id: '1', username: 'Riya vachhani' });
   const [notifications, setNotifications] = useState(3);
   const [showNotifications, setShowNotifications] = useState(false);
   const [showUserMenu, setShowUserMenu] = useState(false);
@@ -22,7 +22,7 @@ export default function Header() {
   ];
 
   const handleLogin = () => {
-    setUser({ id: '1', username: 'john_doe' });
+    setUser({ id: '1', username: 'Riya Vachhani' });
   };
 
   const handleLogout = () => {
