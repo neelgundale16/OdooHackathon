@@ -6,7 +6,7 @@ Pratham Vyas - prathamrvyas@gmail.com
 
 Technologies Used:
 
-Frontend: HTML, CSS, ReactJS
+Frontend: HTML, CSS, ReactJS <br>
 Backend: Python, FastAPI
 
 
